@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Leda Roosa](https://up.htmlacademy.ru/htmlcss/16/user/235546).
+* Студент: [Leda Roosa](https://up.htmlacademy.ru/htmlcss/16/user/235546)
+* Наставник: [Мурат Баркинхоев](https://htmlacademy.ru/profile/id186857)
 
 ---
 
